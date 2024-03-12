@@ -1,0 +1,3 @@
+/home/lvtao/ndnSIM/test/CMakeFiles/test_simp.dir
+/home/lvtao/ndnSIM/test/CMakeFiles/edit_cache.dir
+/home/lvtao/ndnSIM/test/CMakeFiles/rebuild_cache.dir
